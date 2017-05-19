@@ -1,8 +1,8 @@
 # GirlScript
 
-**Promoting diversity and inclusion in tech by supoorting women and promoting equality**
+**Promoting diversity and inclusion in tech by supporting women and bringing opportunities to one platform**
  
- ![Join the chat: https://gitter.im/Girl-script/Lobby](https://badges.gitter.im/Girl-script/Lobby.svg)
+  [![Join the chat at https://gitter.im/Girl-script/Lobby](https://badges.gitter.im/Girl-script/Lobby.svg)](https://gitter.im/Girl-script/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Welcome! 
 Our day just got better. Thank you for visiting GirlScript repository, it’s our pleasure to have you here. :)
