@@ -51,7 +51,7 @@ Also, if you have any ideas likes games abd activities that we should include in
 
 ## Contribution
 We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
-If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself [here.](https://github.com/girlscript/contribute-girlscript/issues/3) 
+If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself [here.](https://github.com/girlscript/contribute-girlscript/issues/1) 
 
 ## Participation Guidelines
 We are following Mozilla Community Participation Guidelines, please have a look at it [here.](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
