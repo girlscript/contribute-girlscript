@@ -1,4 +1,4 @@
-# Contributing to Altruism in tech
+# Contributing to GirlScript
 
 Thank you for your interest in contributing to **GirlScript** :tada:! 
 If you're interested in contributing, you should find all of the details here. We've centralized it into this repository, we'd like to keep things tidy and focused. Issues and roadmap goals will reflect changes across multiple repositories on Github, so you'll have the opportunity to contribute to multiple aspects of this project.
