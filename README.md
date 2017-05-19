@@ -60,7 +60,7 @@ We are following Mozilla Community Participation Guidelines, please have a look 
 This project is licensed under the MIT License - you can see [LICENSE](https://github.com/girlscript/contribute-girlscript/blob/master/LICENSE) file for details.
 
 ## Contact Us
-If you have anything to share, anything at all, feel free to drop by the Altruism in Tech [room](https://gitter.im/GirlScript/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Anubha](https://github.com/anubhamane) by email (anubha[dot]girlscript [at] gmail [dot] com) or on [Twitter](https://twitter.com/anubhamane).
+If you have anything to share, anything at all, feel free to drop by the GirlScript [room](https://gitter.im/Girl-script/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Anubha](https://github.com/anubhamane) by email (anubha[dot]girlscript [at] gmail [dot] com) or on [Twitter](https://twitter.com/anubhamane).
 
 Thank you for your interest. Have a nice day! :D
 
