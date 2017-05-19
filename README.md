@@ -2,7 +2,7 @@
 
 **Promoting diversity and inclusion in tech by supoorting women and promoting equality**
  
- [![Join the chat: https://gitter.im/Girl-script/Lobby](https://badges.gitter.im/Girl-script/Lobby.svg)
+ ![Join the chat: https://gitter.im/Girl-script/Lobby](https://badges.gitter.im/Girl-script/Lobby.svg)
 
 ## Welcome! 
 Our day just got better. Thank you for visiting GirlScript repository, it’s our pleasure to have you here. :)
