@@ -27,7 +27,7 @@ The project is designed to help and guide people who want to improve their techn
 - Lack of diversity in field of tech
 - Lack of skills in people specially women
 - Lack of awareness about different opportunities available
-- To reduce noise prensence on the internet and help those who really want to learn and get inspired by others
+- To reduce noise presence on the internet and help those who really want to learn and get inspired by others
 
 ## What we plan to do about it?
 - To conduct offline workshops by establishing GirlScript chapters in different cities of India
@@ -47,7 +47,7 @@ If you don't wish to help in developing a website and want to help in some other
 - The course can be anything which a begineer in tech must start from. For exaample, you can create a course on HTML5, CSS3, Python or anything which you feel people should know about.
 - It can be a brief course like a summary, highlighting the main points. Also, the language should be easy to understand.
 Also, if you have any ideas likes games abd activities that we should include in our offline workshops then please let us know.
-- Thme or activity must be based on a technical topic and must teach anything related to it. For example, making use of HTML boxes for learning HTML.
+- Theme or activity must be based on a technical topic and must teach anything related to it. For example, making use of HTML boxes for learning HTML.
 
 ## Contribution
 We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
